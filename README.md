@@ -2,6 +2,13 @@
 
 A ROS 2 autonomous racing stack for the RoboRacer (F1TENTH) platform: manually engineered racelines interpolated onto a spline, curvature-based target-speed planning, Pure Pursuit with a speed- and curvature-dependent lookahead, a controller-armed launch boost, and a reactive LiDAR zone-monitoring layer that caps speed and nudges steering around obstacles.
 
+## Team
+
+* **Ethan Sanchez** ([@etsa2103](https://github.com/etsa2103), [ethansanchez.net](https://ethansanchez.net))
+* **Avani Narula** ([@avnarula](https://github.com/avnarula))
+* **Nandagopal Vidhu** ([@nvidhu-upenn](https://github.com/nvidhu-upenn))
+* **Yuntong Li** ([@li51-AMX](https://github.com/li51-AMX))
+
 ## Demo Video
 
 [![Link to Demo Video](https://img.youtube.com/vi/eFsYxvazVSA/0.jpg)](https://youtu.be/eFsYxvazVSA)
